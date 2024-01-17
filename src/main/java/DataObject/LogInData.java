@@ -8,5 +8,10 @@ public class LogInData {
             correctEmail="rostiashvilim72@gmail.com",
             correctPassword="tester1",
            incorrectEmail= faker1.bothify("???@gmail.com"),
-           incorrectPassword=faker1.bothify("?????##");
+           incorrectPassword=faker1.bothify("?????##"),
+           invalidFormatEmail= "rostiashvilim72gmail.com";
+
+
+
 }
+
